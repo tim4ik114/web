@@ -12,9 +12,9 @@
 <p>
     <b><center><ins>Главная</ins></b>
     <b> <a href="./SharSharm/photo.html" style="color: black;text-decoration: none">Фотографии</a></b>
-    <b> <a href="./SharSharm/catalog.html" style="color: black;text-decoration: none">Каталог</a></b>
+    <b> <a href="./SharSharm/catalog.md" style="color: black;text-decoration: none">Каталог</a></b>
     <b><a href="./SharSharm/descript.html" style="color: black;text-decoration: none">Отзывы</b>
-    <b><a href="./SharSharm/contacts.html" style="color: black;text-decoration: none">Контакты</a></b>
+    <b><a href="./SharSharm/contacts.md" style="color: black;text-decoration: none">Контакты</a></b>
     </center>
 </p>
     <div class="line"></div>
